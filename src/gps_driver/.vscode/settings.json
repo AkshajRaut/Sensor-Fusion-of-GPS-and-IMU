@@ -1,0 +1,24 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ubuntu/gps_puck/install/msg_package/local/lib/python3.10/dist-packages",
+        "/home/ubuntu/gps_puck/install/gps_driver/lib/python3.10/site-packages",
+        "/home/ubuntu/rsn/install/tutorial_interfaces/local/lib/python3.10/dist-packages",
+        "/home/ubuntu/rsn/install/service_client/lib/python3.10/site-packages",
+        "/home/ubuntu/rsn/build/py_srvcli",
+        "/home/ubuntu/rsn/install/py_srvcli/lib/python3.10/site-packages",
+        "/home/ubuntu/rsn/install/assign/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ubuntu/gps_puck/install/msg_package/local/lib/python3.10/dist-packages",
+        "/home/ubuntu/gps_puck/install/gps_driver/lib/python3.10/site-packages",
+        "/home/ubuntu/rsn/install/tutorial_interfaces/local/lib/python3.10/dist-packages",
+        "/home/ubuntu/rsn/install/service_client/lib/python3.10/site-packages",
+        "/home/ubuntu/rsn/build/py_srvcli",
+        "/home/ubuntu/rsn/install/py_srvcli/lib/python3.10/site-packages",
+        "/home/ubuntu/rsn/install/assign/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
